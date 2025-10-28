@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e31bbc65b45650d48ae40fbd97e31a39
+guid: 38c5eade02bd85b489c3e345880e022b
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -18,17 +18,17 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: vanguard_diffuse1
-    second: {fileID: 2800000, guid: 21d8ad8938e16f54ba132a823b033d8e, type: 3}
+    second: {fileID: 2800000, guid: c58eed06181ab8b49974c0b7a4cfd526, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: vanguard_normal
-    second: {fileID: 2800000, guid: e0839bca774fb1d41aedda45a5d9b8e5, type: 3}
+    second: {fileID: 2800000, guid: c618b789734b5aa47acf51d70274b21c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: vanguard_specular
-    second: {fileID: 2800000, guid: 96a4e5d981bcc5c449ea11f77ce061f6, type: 3}
+    second: {fileID: 2800000, guid: e1e73b168837f8c46b17cee666dde35a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -103,6 +103,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips:
+  - 5efcb79b508d3644fb3f4866693524f9
   - 9bc8d9647639fd241bd7043dc0bd4172
   importAnimation: 1
   humanDescription:
